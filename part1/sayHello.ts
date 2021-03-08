@@ -4,5 +4,3 @@ function sayHello(name?: string) {
     else
         console.log('Hello world');
 }
-
-sayHello();
